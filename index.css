@@ -83,6 +83,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
+  margin-right: 10px;
 }
 
 .my-projects-text {
@@ -228,7 +229,7 @@ body {
 }
 
 .contacts-section-link {
-  color: #565e6a;
+  color: #fff;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
