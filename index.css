@@ -13,9 +13,12 @@ body {
 }
 
 .about-me-profession {
-  font-size: 14px;
-  font-weight: 700;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
   color: #000;
+  margin: 0 0 20px 0;
 }
 
 /* Main content section */
@@ -35,15 +38,6 @@ body {
 
 /* About me section */
 
-.about-me-profession {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 17px;
-  color: #000;
-  margin: 0 0 20px 0;
-}
-
 .abaut-me-name {
   font-style: normal;
   font-weight: bold;
@@ -54,7 +48,6 @@ body {
 }
 
 .abaut-me-description {
-  width: 400px;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -80,9 +73,9 @@ body {
 .my-projects-link {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
   margin-right: 10px;
 }
 
